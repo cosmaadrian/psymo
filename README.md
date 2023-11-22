@@ -39,11 +39,16 @@ Alongside the standard array of covariates which includes normal walking (NM), c
  with improved models over time, if necessary. 
 
 <div align="center">
-  <img src="images/modalities"  width="800">
+  <img src="images/modalities.png"  width="512">
 </div>
  
 
 ## <a name="dataset"></a> 🔮 Psychological Questionnaires
+
+To gather our dataset, we asked volunteers to fill in 7 psychological questionnaires and personal information about their body composition: age, gender, height and weight. After submitting the questionnaires, participants were required to have their walk captured in various conditions. All participants are physically healthy and do not report any injury or
+disability affecting their walking. Participants were dressed in everyday clothes. In total, 312 subjects participated in our study, mostly university students. All participants were explicitly informed about how their data is being processed and that the anonymized dataset is made available to the research community at large. Subsequently, all participants gave explicit consent to be part of this study before filling in the questionnaires. Moreover, this study was approved by the Ethics Review Board at the University Politehnica of Bucharest (AC01/01.10.2021).
+
+As opposed to other similar works, we have a more diverse set of questionnaires, which correspond to indicators of personality (BigFive, Rosenberg Self-Esteem), fatigue (OFER), aggressiveness (Buss-Perry Aggression Questionnaire) and mental health (General Health Questionnaire, Depression, Anxiety and Stress Scale). For the participants’ convenience, we chose the short version of the questionnaires when possible, resulting in a total completion time of approximately 30 minutes for all questionnaires. Since all our subjects are native Romanians, we used translations for each questionnaire when available. In case a translation is not available, we performed the translations with the help of a psychologist. Before capturing the walking videos, each participant was required to fill in the questionnaires. Of the 312 participants, 113 were female and 199 were male, with an average age of 21.9 years (SD = 2.18). The average weight for the participants is 70.5kg (SD = 15.7), with an average height of 174.8cm (SD = 8.9), corresponding to an average BMI of 22.87 (SD = 3.9). We briefly describe the motivation and technical details of each psychological questionnaire.
 
 <div align="center">
   <img src="images/questionnaires.png"  width="800">
