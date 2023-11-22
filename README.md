@@ -34,6 +34,15 @@ Alongside the standard array of covariates which includes normal walking (NM), c
   <img src="images/variations.png"  width="800">
 </div>
 
+**Available Modalities** In order to preserve the anonymity of the participants, we do not release the full RGB videos, and instead choose to release only high-level features related to gait: silhouettes, 2D / 3D human poses and 3D human meshes (Figure 5). We chose state-of-the-art pretrained models that have especially good performance in ”in the wild” 
+ cenarios, which are arguably more complex than our laboratory conditions: more people, filmed at a distance, with detection overlap. As such, we make a reasonable assumption that the resulting semantic data (skeletons / silhouettes) is of high quality. However, we are committed to maintaining the dataset’s quality, and we intend to update the semantic features 
+ with improved models over time, if necessary. 
+
+<div align="center">
+  <img src="images/modalities"  width="800">
+</div>
+ 
+
 ## <a name="dataset"></a> 🔮 Psychological Questionnaires
 
 <div align="center">
