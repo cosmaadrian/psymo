@@ -1,4 +1,5 @@
 <h1 align="center"><span style="font-weight:normal">PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait</h1>
+<h3 align="center"><span style="font-weight:normal">Accepted at: Winter Conference on Applications of Computer Vision (WACV) 2024 </h3>
 
 <p align="center"> <a href="https://arxiv.org/abs/2308.10631"> 📘 Paper Link </a> | <a href="https://bit.ly/3Q91ypD"> 💾 Dataset Link </a></p>
 
