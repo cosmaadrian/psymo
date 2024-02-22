@@ -69,12 +69,12 @@ Below we present results for psychological trait estimation for silhouettes and 
 If you found our work useful or use our dataset in any way, please cite our paper:
 
 ```
-@InProceedings{cosma2023psymo,
-    author    = {Adrian Cosma and Emilian Radoi},
-    title     = {PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
-    year      = {2024},
+@inproceedings{cosma2024psymo,
+  title={PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait},
+  author={Cosma, Adrian and Radoi, Emilian},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={4603--4613},
+  year={2024}
 }
 ```
 
